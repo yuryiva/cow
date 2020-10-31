@@ -1,5 +1,5 @@
-const myHello = require('./information');
-myHello();
+const data = require('./information');
+
 
 var cowsay = require("cowsay");
 
