@@ -1,0 +1,9 @@
+const data = {
+    name: 'Yuri',
+    campus: 'Remote EN'
+};
+
+const myData = () => {
+    console.log("Hello, I'm " + data.name + " from campus " + data.campus + ".");
+}
+module.exports = myData;
